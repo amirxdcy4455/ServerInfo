@@ -286,4 +286,5 @@ This project is licensed under the MIT License.
 **PocketMine-MP**: 5.0.0+  
 **PHP Requirement**: 8.0+  
 
-For more information, visit the [GitHub repository](https://github.com/Amirxd/ServerInfo).
+
+For more information, visit the [GitHub repository](https://github.com/amirxdcy4455/ServerInfo).
