@@ -47,7 +47,7 @@ A comprehensive PocketMine-MP plugin that provides detailed server information t
 
 ### Example Output
 When you run the command, you'll see output similar to this: <br>
-<img src="ServerInfo.png"></img>
+<img src="ServerInfo.PNG"></img>
 ## ⚙️ Configuration
 
 Edit `plugins/ServerInfo/config.yml` to customize the display:
@@ -288,3 +288,4 @@ This project is licensed under the MIT License.
 
 
 For more information, visit the [GitHub repository](https://github.com/amirxdcy4455/ServerInfo).
+
