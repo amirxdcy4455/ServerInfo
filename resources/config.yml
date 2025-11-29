@@ -1,0 +1,17 @@
+# ServerInfo Configuration
+# Customize the server info display message
+
+messages:
+  - "&8&e{border}&r &6&lServer Info &8&e{border}"
+  - "&b» &fTPS: {server.tps_colored}&f &7({server.tps_rounded})"
+  - "&b» &fPlayers: &a{server.players.online}&7/&a{server.players.max} &7(&a{server.players.percent}%&7)"
+  - "&b» &fUptime: &a{server.uptime}"
+  - "&b» &fWorlds: &a{server.worlds.count}"
+  - "&b» &fVersion: &a{server.version}"
+  - "&b» &fAPI: &a{server.api_version}"
+  - "&b» &fIP: &a{server.ip}:{server.port}"
+  - "&b» &fServer Type: &a{server_type}"
+  - "&b» &fName: &a{server.name}"
+  - "&b» &fServer Health: {server.health.status}"
+  - "&b» &fMemory All Data : {line} {server.memory.allData}"
+  - "&8&m                                                          "
